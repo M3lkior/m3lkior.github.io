@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://m3lkior.github.io/static/css/main.1d9f1f3b.css",
+    "main.js": "https://m3lkior.github.io/static/js/main.8a7fe4c2.js",
+    "index.html": "https://m3lkior.github.io/index.html",
+    "static/media/question.svg": "https://m3lkior.github.io/static/media/question.6812ccec3ad3ae295d67.svg",
+    "static/media/filter.svg": "https://m3lkior.github.io/static/media/filter.0184a9cb7d13ac9b4f8c.svg",
+    "static/media/overview.svg": "https://m3lkior.github.io/static/media/overview.f8df5363455f5d11fb64.svg",
+    "static/media/search.svg": "https://m3lkior.github.io/static/media/search.0d63cc79f71bbf20e5f2.svg",
+    "static/media/close.svg": "https://m3lkior.github.io/static/media/close.fa9d8184ae5ae98836b0.svg",
+    "static/media/pie.svg": "https://m3lkior.github.io/static/media/pie.ab4df14d794e7a138dbd.svg",
+    "static/media/back.svg": "https://m3lkior.github.io/static/media/back.89b7d25c566e59efd88f.svg",
+    "static/media/index.cjs": "https://m3lkior.github.io/static/media/index.cd351d7c31d0d3fccf96.cjs",
+    "static/media/blip_new.svg": "https://m3lkior.github.io/static/media/blip_new.8459a7f423a7bacc54be.svg",
+    "static/media/blip_changed.svg": "https://m3lkior.github.io/static/media/blip_changed.1d3c097bf62be824f122.svg",
+    "static/media/blip_default.svg": "https://m3lkior.github.io/static/media/blip_default.407e012cab462a295713.svg"
+  },
+  "entrypoints": [
+    "static/css/main.1d9f1f3b.css",
+    "static/js/main.8a7fe4c2.js"
+  ]
+}
