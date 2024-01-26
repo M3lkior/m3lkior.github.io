@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "https://m3lkior.github.io/static/css/main.1d9f1f3b.css",
-    "main.js": "https://m3lkior.github.io/static/js/main.0d4da748.js",
+    "main.css": "https://m3lkior.github.io/static/css/main.3eb9346b.css",
+    "main.js": "https://m3lkior.github.io/static/js/main.a8fd58c9.js",
+    "static/media/overview.svg": "https://m3lkior.github.io/static/media/overview.2e91b190e821b00544b6.svg",
+    "static/media/question.svg": "https://m3lkior.github.io/static/media/question.f49af21b0654459dca13.svg",
+    "static/media/search.svg": "https://m3lkior.github.io/static/media/search.679b98f82ae5196a396b.svg",
+    "static/media/filter.svg": "https://m3lkior.github.io/static/media/filter.410297804239c0ea9222.svg",
+    "static/media/pie.svg": "https://m3lkior.github.io/static/media/pie.7ef18b270cc2509e9039.svg",
     "index.html": "https://m3lkior.github.io/index.html",
-    "static/media/question.svg": "https://m3lkior.github.io/static/media/question.6812ccec3ad3ae295d67.svg",
-    "static/media/filter.svg": "https://m3lkior.github.io/static/media/filter.0184a9cb7d13ac9b4f8c.svg",
-    "static/media/overview.svg": "https://m3lkior.github.io/static/media/overview.f8df5363455f5d11fb64.svg",
-    "static/media/search.svg": "https://m3lkior.github.io/static/media/search.0d63cc79f71bbf20e5f2.svg",
-    "static/media/close.svg": "https://m3lkior.github.io/static/media/close.fa9d8184ae5ae98836b0.svg",
-    "static/media/pie.svg": "https://m3lkior.github.io/static/media/pie.ab4df14d794e7a138dbd.svg",
-    "static/media/back.svg": "https://m3lkior.github.io/static/media/back.89b7d25c566e59efd88f.svg",
+    "static/media/back.svg": "https://m3lkior.github.io/static/media/back.6d132c7e444cbbde9648.svg",
+    "static/media/close.svg": "https://m3lkior.github.io/static/media/close.0a8d1a237ec4bf5218c6.svg",
+    "static/media/blip_new.svg": "https://m3lkior.github.io/static/media/blip_new.a61075d6f6957f19d98c.svg",
     "static/media/index.cjs": "https://m3lkior.github.io/static/media/index.cd351d7c31d0d3fccf96.cjs",
-    "static/media/blip_new.svg": "https://m3lkior.github.io/static/media/blip_new.8459a7f423a7bacc54be.svg",
-    "static/media/blip_changed.svg": "https://m3lkior.github.io/static/media/blip_changed.1d3c097bf62be824f122.svg",
-    "static/media/blip_default.svg": "https://m3lkior.github.io/static/media/blip_default.407e012cab462a295713.svg"
+    "static/media/blip_changed.svg": "https://m3lkior.github.io/static/media/blip_changed.08c84aef1cf47bb9bb1c.svg",
+    "static/media/blip_default.svg": "https://m3lkior.github.io/static/media/blip_default.5e46a91d07200ba1acf3.svg"
   },
   "entrypoints": [
-    "static/css/main.1d9f1f3b.css",
-    "static/js/main.0d4da748.js"
+    "static/css/main.3eb9346b.css",
+    "static/js/main.a8fd58c9.js"
   ]
 }
